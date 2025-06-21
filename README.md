@@ -43,3 +43,9 @@ That's all I can think of for now, but if you have any other ideas I'd love to h
 Thanks in advance,
 
 Mario Maven (Manager, Plato's Pizza)
+
+## Analysis Procces
+
+### Data Cleaning
+
+1. 
